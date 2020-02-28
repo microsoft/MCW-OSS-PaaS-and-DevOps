@@ -13,7 +13,7 @@
     "express": "^4.16.4",
     "express-session": "^1.15.6",
     "mongodb": "^2.2.33",
-    "mongoose": "^5.4.21",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "react": "^16.8.6",
     "react-bootstrap": "^0.32.4",
